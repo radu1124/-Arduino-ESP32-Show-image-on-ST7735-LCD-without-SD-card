@@ -1,5 +1,5 @@
 In this project I am using an ESP32 board and a ST7735s LDC display. 
-The scope of this project is to render an image on the display without using an SD card. 
+The goal of this project is to render an image on the display without using an SD card. 
 Firstly, we will put the ESP32 and the display on the breadboard.
 Connect the ESP32 to the breadboard's ground.
 Then, we will connect the display pins, as showed in the photo below:
